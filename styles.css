@@ -7,6 +7,7 @@
    justify-content: space-between;
    align-items: center;
   }
+<<<<<<< HEAD
 
 .nav-links{
 flex: 1;
@@ -17,12 +18,14 @@ list-style: none;
 display: inline-block;
 padding: 8px 12px;
 position: relative;
+=======
+.nav-links{
+>>>>>>> 9c266464421cec983d93375d4c30f9180ba01e5b
 }
 
-
 html, body {
-  margin: 0;
-  border: 0;
+  margin: auto;
+  border: 1;
   padding: 0;
   background-color: #fff;
 }
