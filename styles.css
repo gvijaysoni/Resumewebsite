@@ -6,13 +6,13 @@
    padding: 2% 6%;
    justify-contnet: space-between;
    align-items: center;
-   
+  }
+.nav-links{
 }
 
-
 html, body {
-  margin: 0;
-  border: 0;
+  margin: auto;
+  border: 1;
   padding: 0;
   background-color: #fff;
 }
